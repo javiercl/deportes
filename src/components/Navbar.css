@@ -24,7 +24,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 1em;
-    background-color: var(--first-color);
+    background-color: blue;
     padding: 0 0.5em;
 
 }
